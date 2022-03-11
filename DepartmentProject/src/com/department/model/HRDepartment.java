@@ -1,10 +1,10 @@
 package com.department.model;
 
-public class HrDepartment extends SuperDepartment {
+public class HRDepartment extends SuperDepartment {
 
 	@Override
 	public String departmentName() {
-		return "Hr Department";
+		return "HR Department";
 	}
 
 	@Override
